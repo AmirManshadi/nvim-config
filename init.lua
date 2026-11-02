@@ -8,3 +8,6 @@ require("config.keymaps")
 
 -- Initialize the plugin manager.
 require("config.lazy")
+
+-- Initialize lsp config
+require("config.lsp")
